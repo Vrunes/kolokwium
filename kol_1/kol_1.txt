@@ -16,7 +16,7 @@ Source File 1: main.cpp
 #include "employee.h"
 #include "address.h"
 int main()
-{s
+{
 printf("program works\n");
 }
 
