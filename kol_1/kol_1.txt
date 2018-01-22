@@ -68,7 +68,7 @@ g++ -o myProgram main.o employee.o address.o
 Zad 3
 Utwórz pliki cmake dla Zad 2. Pamiętaj o separacji drzewa binarnego i źródłowego.
 Zad 4
-W katalogu cmake_test znajdziesz pliki do budowy programy wykonywalnego.
+W katalogu zad3 znajdziesz pliki do budowy programy wykonywalnego.
 Program ten aby działał musi korzystać z biblioteki statycznej lub dynamicznej.
 Napisz odpowiedni cmkaefile. 
 Program wykonywalny winien być zainstalowany w lokalizacji ./bin, a biblioteka w ./lib
