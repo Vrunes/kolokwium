@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/main_exe.dir/src/libtest.cpp.o  -o bin/main_exe   -L/home/melvin/srodowiska/kolokwium/kolokwium/kolokwium-master/kol_1/zad3/lib  -L/usr/local/lib  -Wl,-rpath,/home/melvin/srodowiska/kolokwium/kolokwium/kolokwium-master/kol_1/zad3/lib:/usr/local/lib lib/libStudent.a 

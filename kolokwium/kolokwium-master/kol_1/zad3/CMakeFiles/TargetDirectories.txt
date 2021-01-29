@@ -1,0 +1,4 @@
+/home/melvin/srodowiska/kolokwium/kolokwium/kolokwium-master/kol_1/zad3/CMakeFiles/rebuild_cache.dir
+/home/melvin/srodowiska/kolokwium/kolokwium/kolokwium-master/kol_1/zad3/CMakeFiles/edit_cache.dir
+/home/melvin/srodowiska/kolokwium/kolokwium/kolokwium-master/kol_1/zad3/CMakeFiles/main_exe.dir
+/home/melvin/srodowiska/kolokwium/kolokwium/kolokwium-master/kol_1/zad3/CMakeFiles/Student.dir

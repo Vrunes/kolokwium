@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/melvin/srodowiska/kolokwium/kolokwium/kolokwium-master/kol_1/zad3/src/libtest.cpp
+Student.h
+/home/melvin/srodowiska/kolokwium/kolokwium/kolokwium-master/kol_1/zad3/src/Student.h
+
+include/Student.h
+string
+-
+
