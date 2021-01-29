@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/melvin/srodowiska/kolokwium/kolokwium/kolokwium-master/kol_1/zadanie3/myProgram/address.cpp
+string
+-
+
+/home/melvin/srodowiska/kolokwium/kolokwium/kolokwium-master/kol_1/zadanie3/myProgram/address.h
+stdio.h
+-
+
+/home/melvin/srodowiska/kolokwium/kolokwium/kolokwium-master/kol_1/zadanie3/myProgram/employee.cpp
+address.h
+/home/melvin/srodowiska/kolokwium/kolokwium/kolokwium-master/kol_1/zadanie3/myProgram/address.h
+
+/home/melvin/srodowiska/kolokwium/kolokwium/kolokwium-master/kol_1/zadanie3/myProgram/employee.h
+
+/home/melvin/srodowiska/kolokwium/kolokwium/kolokwium-master/kol_1/zadanie3/myProgram/main.cpp
+employee.h
+/home/melvin/srodowiska/kolokwium/kolokwium/kolokwium-master/kol_1/zadanie3/myProgram/employee.h
+address.h
+/home/melvin/srodowiska/kolokwium/kolokwium/kolokwium-master/kol_1/zadanie3/myProgram/address.h
+

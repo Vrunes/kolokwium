@@ -1,0 +1,3 @@
+/home/melvin/srodowiska/kolokwium/kolokwium/kolokwium-master/kol_1/zadanie3/build/CMakeFiles/rebuild_cache.dir
+/home/melvin/srodowiska/kolokwium/kolokwium/kolokwium-master/kol_1/zadanie3/build/CMakeFiles/edit_cache.dir
+/home/melvin/srodowiska/kolokwium/kolokwium/kolokwium-master/kol_1/zadanie3/build/CMakeFiles/main.dir
